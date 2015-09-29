@@ -1,0 +1,10 @@
+{
+    "gitbook": "2.x.x",
+    "plugins": [],
+    "links": {
+        "sidebar": {
+            "Contact us": "https://www.github.com/yeastmeeting-vancouver/converse"
+        }
+    },
+    "pluginsConfig": {}
+}
