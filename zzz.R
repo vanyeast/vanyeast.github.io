@@ -2,7 +2,7 @@ system("gitbook init .")
 system("gitbook build")
 # copy all rendered files from default output location to base of root dir
 system("cp -R ./_book/* ./")
-
+system("rm -R _book")
 # from jbryer/Rgitbook internals
 # repo <- "yeastmeeting-vancouver/yeastmeeting-vancouver.github.io"
 # dest <- file.path(getwd(), "_book")
