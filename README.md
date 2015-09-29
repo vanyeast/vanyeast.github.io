@@ -1,4 +1,4 @@
-![yeast-meeting-logo](https://github.com/yeastmeeting-vancouver/assets/yeast-meeting-vancouver_full.png)
+![yeast-meeting-logo](https://github.com/yeastmeeting-vancouver/assets/blob/master/yeast-meeting-vancouver_full.png)
 
 
 ### Our Mission
