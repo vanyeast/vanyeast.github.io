@@ -1,4 +1,4 @@
-system("gitbook init .")
+# system("gitbook init .") # only once
 system("gitbook build")
 # copy all rendered files from default output location to base of root dir
 system("cp -R ./_book/* ./")
