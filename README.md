@@ -17,6 +17,6 @@ _-your organizers._
 
 Come to our next meeting!
 
-Have a thought, an idea, an issue ? Join the conversation over on [github](https://github.com/yeastmeeting-vancouver/converse) or on [slack](https://vanyeast.slack.com).
+Have a thought, an idea, an issue ? Join the conversation over on [github](https://github.com/vanyeast/converse) or on [slack](https://vanyeast.slack.com).
 
 
