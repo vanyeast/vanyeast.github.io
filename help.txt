@@ -1,0 +1,14 @@
+How the website works:
+
+We use markdown (.md) files to format the content for individual pages.
+Then, we use gitbook to build the html files for the website.
+
+To make changes to the website (code is in ` `):
+0) You'll need a) method of accessing github b) a shell
+1) Clone the vanyeast.github.io repository
+2) Make changes to the markdown files.
+2b) Alternatively, use github online text editor to change and preview markdown files.
+3) Go the the main directory and `gitbook build`. This creates a folder _book, containing all the html files in structured directories.
+4) `cp -R ./_book/* ./` This copies all the files out into the main directory.
+5) `rm -R _book` Clean up.
+6) Commit changes on your local directory, and push it to the website. Changes should be live!

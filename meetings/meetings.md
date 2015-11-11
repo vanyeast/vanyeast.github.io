@@ -2,7 +2,7 @@
 
 We hold regular meetings with trainee research talks, food, and drink.
 
-We try to bring in guest speakers...
+We welcome any guest speakers from outside the VanYeast community! Just contact the organizers.
 
 ### Where
 
