@@ -3,10 +3,10 @@
 An ordered list of things
 
 * [Meetings](meetings/meetings.md)
-  * [October 21, 2015](meetings/2015-10-21.md)
-  * [November 25, 2015](meetings/2015-11-25.md)
-  * [January 27, 2016](meetings/2016-01-27.md)
-  * [March 23, 2016](meetings/2016-03-23.md)
+  * [Oct 21, 2015](meetings/2015-10-21.md)
+  * [Nov 25, 2015](meetings/2015-11-25.md)
+  * [Jan 27, 2016](meetings/2016-01-27.md)
+  * [Mar 23, 2016](meetings/2016-03-23.md)
   * [May 25, 2016](meetings/2016-05-25.md)
 
 * [GroupThinks](group-thinks/group-thinks.md)
